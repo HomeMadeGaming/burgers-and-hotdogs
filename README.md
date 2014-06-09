@@ -1,6 +1,6 @@
 RPG
 
-{save view settings as Tabs, 4, No wrap}
+save view settings as Tabs, 4, No wrap
 ===
 agreed aspects:
 
@@ -8,6 +8,8 @@ world view
     skyview like zelda/pokemon
     loads in chunks like zelda
     has a grid/block type design like zelda/pokemon
+    	blocks 32x32 pixels
+    	map chunks 32x24 blocks
 fight view
     will be a different screen like pokemon
 player creation
