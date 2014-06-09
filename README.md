@@ -1,4 +1,6 @@
 RPG
+
+{save view settings as Tabs, 4, No wrap}
 ===
 agreed aspects:
 
@@ -27,3 +29,5 @@ character customization with skin color and clothing
 starting characters have their own storyline and backstory
 unconventional weapons like throwing axes
 separate detailed view of weapon/armor stats in each combat type
+
+{save view settings as Tabs, 4, No wrap}
